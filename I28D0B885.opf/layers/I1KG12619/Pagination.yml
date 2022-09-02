@@ -1,0 +1,184 @@
+id: eafd671277cb4334a44dff4665e744af
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  3fd236a2a011494db6860a4fdbf7f4b3:
+    span:
+      start: 0
+      end: 710
+    imgnum: 1
+    reference: I1KG126190001.jpg
+  4ade066964c74066a8062318ad67e88a:
+    span:
+      start: 711
+      end: 951
+    imgnum: 5
+    reference: I1KG126190005.jpg
+  a08ee6c5911945deb05be91d1074708e:
+    span:
+      start: 952
+      end: 1087
+    imgnum: 6
+    reference: I1KG126190006.jpg
+  d11e09bc2dd14949811f023b8dbb85f2:
+    span:
+      start: 1088
+      end: 1701
+    imgnum: 7
+    reference: I1KG126190007.jpg
+  fa85c0694dbf4566a034b3cafd1c9029:
+    span:
+      start: 1702
+      end: 1759
+    imgnum: 9
+    reference: I1KG126190009.jpg
+  db3345c84ee84e278bb5384f93b6f088:
+    span:
+      start: 1760
+      end: 2367
+    imgnum: 10
+    reference: I1KG126190010.jpg
+  462272972c7143329e6d3623914d7161:
+    span:
+      start: 2368
+      end: 3568
+    imgnum: 11
+    reference: I1KG126190011.jpg
+  be4c03c41aea4d63afbfe8119e38ccae:
+    span:
+      start: 3569
+      end: 4750
+    imgnum: 12
+    reference: I1KG126190012.jpg
+  5563905560cb4e97af34c40713579f7a:
+    span:
+      start: 4751
+      end: 5866
+    imgnum: 13
+    reference: I1KG126190013.jpg
+  60130896c5214effa456c8acdd3e34fc:
+    span:
+      start: 5867
+      end: 7126
+    imgnum: 14
+    reference: I1KG126190014.jpg
+  0eb2ef626b0e4222bd8218e2a023b80b:
+    span:
+      start: 7127
+      end: 8223
+    imgnum: 15
+    reference: I1KG126190015.jpg
+  c56589335477400096b749d7bfa845c1:
+    span:
+      start: 8224
+      end: 9353
+    imgnum: 16
+    reference: I1KG126190016.jpg
+  a7cf4ae577184d48a755e72a110accea:
+    span:
+      start: 9354
+      end: 10476
+    imgnum: 17
+    reference: I1KG126190017.jpg
+  992393ac6f57439992d31d4a34080771:
+    span:
+      start: 10477
+      end: 11533
+    imgnum: 18
+    reference: I1KG126190018.jpg
+  b6069881d5ae4874bb4f1067d4a6f9e5:
+    span:
+      start: 11534
+      end: 12591
+    imgnum: 19
+    reference: I1KG126190019.jpg
+  9b7857cdd13e4db4ae4e039e909ee645:
+    span:
+      start: 12592
+      end: 13631
+    imgnum: 20
+    reference: I1KG126190020.jpg
+  3563d0e1dbac479fba7fc9746864be90:
+    span:
+      start: 13632
+      end: 14794
+    imgnum: 21
+    reference: I1KG126190021.jpg
+  24fc0beab40f45a980ede717d69768a7:
+    span:
+      start: 14795
+      end: 15679
+    imgnum: 22
+    reference: I1KG126190022.jpg
+  ffcd2f74396d47749089d6d7bb5f810c:
+    span:
+      start: 15680
+      end: 16682
+    imgnum: 23
+    reference: I1KG126190023.jpg
+  f5b00db2f91342d5a35240f7f3062070:
+    span:
+      start: 16683
+      end: 17767
+    imgnum: 24
+    reference: I1KG126190024.jpg
+  8231fffc6eba4778b53c00a896ad1b94:
+    span:
+      start: 17768
+      end: 18696
+    imgnum: 25
+    reference: I1KG126190025.jpg
+  ed9955542ee34d7fba161087712ab415:
+    span:
+      start: 18697
+      end: 19654
+    imgnum: 26
+    reference: I1KG126190026.jpg
+  9d1e9fb4c62c484c8599a89eb8d5c0a4:
+    span:
+      start: 19655
+      end: 20754
+    imgnum: 27
+    reference: I1KG126190027.jpg
+  5bf38a855b9e4247b4462925ab78bb8e:
+    span:
+      start: 20755
+      end: 21592
+    imgnum: 28
+    reference: I1KG126190028.jpg
+  6b57eaf637ea4836946dbb2871ed79b5:
+    span:
+      start: 21593
+      end: 22718
+    imgnum: 29
+    reference: I1KG126190029.jpg
+  6add6dacaeb24b91b13d8f3c76d9b8ee:
+    span:
+      start: 22719
+      end: 23717
+    imgnum: 30
+    reference: I1KG126190030.jpg
+  cf8a23c85a93469d8854d6655ffe3bc9:
+    span:
+      start: 23718
+      end: 24812
+    imgnum: 31
+    reference: I1KG126190031.jpg
+  1697ddee1fc44147bce15108737d1532:
+    span:
+      start: 24813
+      end: 25949
+    imgnum: 32
+    reference: I1KG126190032.jpg
+  6715b1ec89b148b0ad1a8aafd6d06780:
+    span:
+      start: 25950
+      end: 26447
+    imgnum: 33
+    reference: I1KG126190033.jpg
+  661479f6791c47f2be35bada13e404e4:
+    span:
+      start: 26448
+      end: 27049
+    imgnum: 35
+    reference: I1KG126190035.jpg
